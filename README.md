@@ -1,0 +1,2 @@
+# SMS-Spam-Detection-using-Supervised-Machine-Learning
+Short Message Service (SMS) is one of the most extensively used services. It serves as a platform for various SMS based spams. In this research, we have used machine learning techniques to detect whether a given SMS is a ham or spam. After an exhaustive examination of text messages, we derived 11 attributes that can distinguish features for a spam message.
